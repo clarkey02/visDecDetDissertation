@@ -26,3 +26,4 @@ TROUBLESHOOTING:
 - Two test flv files have been provided
 - By default the software applies a point visualisation to test2.flv
 - To change visualisation type and file, enter facialVisualisationSoftware.py. Sensitivities may need to be altered.
+- Ignore single image in 'images' folder upon download. Only implemented to allow image directory upload to GitHub. 
